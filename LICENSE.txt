@@ -1,0 +1,5 @@
+Copyright © 2026 Joshua Remillard and Kevin Kunker. All rights reserved.
+
+This project was co-developed as part of the BS Computer Engineering Technology program at Vermont State University. All rights to the source code and documentation are held jointly by the authors.
+
+This repository is maintained by Josh Remillard for portfolio and demonstration purposes. No part of this project may be reproduced, distributed, or modified without the express written permission of the authors.
